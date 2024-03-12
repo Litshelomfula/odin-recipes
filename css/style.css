@@ -11,3 +11,11 @@ h1,h2{
 ol,ul{
    color:darkred;
 }
+
+.Ingredients,.Steps{
+  background-color:blanchedalmond;
+}
+p{
+    color:darkred;
+}
+  
